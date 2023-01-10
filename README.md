@@ -19,6 +19,18 @@ Getting Started
     </tr>
     <tr>
         <td width="50%">
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview7.jpg"></img>
+            <br />
+            <p align="center">Trending & Popular Section</p>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview6.jpg"></img>
+            <br />
+            <p align="center">Now Playing and Upcoming Section</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
             <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview2.jpg"></img>
             <br />
             <p align="center">Movies Genre</p>
@@ -27,18 +39,6 @@ Getting Started
             <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview3.jpg"></img>
             <br />
             <p align="center">TV Series Genre</p>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview7.jpg"></img>
-            <br />
-            <p align="center">My Files</p>
-        </td>
-        <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview6.jpg"></img>
-            <br />
-            <p align="center">File Description</p>
         </td>
     </tr>
     <tr>
