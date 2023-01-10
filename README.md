@@ -9,7 +9,7 @@ Getting Started
 ## Table of contents
 
 ## Screenshots
-![preview]([https://user-images.githubusercontent.com/75971776/188475483-3402830f-0a8f-4088-ab5c-ba1b705d5da0.png](https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview.jpg))
+<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview.jpg"></img>
 
 ### Summary
 
