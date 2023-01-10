@@ -10,6 +10,12 @@ Getting Started
 
 ## Screenshots
 <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview.jpg"></img>
+<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview2.jpg"></img>
+<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview3.jpg"></img>
+<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview4.jpg"></img>
+<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview5.jpg"></img>
+<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview6.jpg"></img>
+<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview7.jpg"></img>
 
 ### Summary
 
