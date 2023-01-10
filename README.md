@@ -11,7 +11,7 @@ Author : [Sayan Maity](sayancr777@gmail.com)
 </p>
 
 ## Built with
-<img src="https://img.shields.io/badge/react%20-%23333.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/next.js%20-%23323330.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/react%20-%23333.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/next.js%20-%23323330.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=black"/>
 - **Frontend**: HTML, CSS, Javascript
 - **Version Control**: Git
 - **Hosting**: Netlify, Github Pages, Vercel, CloudFlare
