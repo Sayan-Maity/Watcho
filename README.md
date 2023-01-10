@@ -1,5 +1,14 @@
+
 # Watcho
->Welcome to the ``` Watcho ```! This app allows you to browse and search for your favorite movies based on genre.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f3dd54aa-fd47-4ed5-bdaa-e6248062c6ad/deploy-status)](https://app.netlify.com/sites/watcho-app/deploys)
+
+>Welcome to the ``` Watcho ```! This app allows the user to browse and search for their favorite movies or being based on any particular genre like horror, action, mystry, crime, family, fantasy, romance, music, etc.
+
+Author : [Sayan Maity](sayancr777@gmail.com)
+
+<p align="center">
+  <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/banner.png" alt="banner">
+</p>
 
 ## Features
 Browse movies by genre
