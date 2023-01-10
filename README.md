@@ -21,7 +21,7 @@ Getting Started
         <td width="50%">
             <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview2.jpg"></img>
             <br />
-            <h3 align="center">Movies Genre</h3>
+            <p align="center">Movies Genre</p>
         </td>
         <td width="50%">
             <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview3.jpg"></img>
