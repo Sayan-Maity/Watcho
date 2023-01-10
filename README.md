@@ -43,17 +43,17 @@ Getting Started
     </tr>
     <tr>
         <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview5.jpeg"></img>
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview4.jpg"></img>
             <br />
-            <p align="center">My Files</p></td>
+            <p align="center">Search Results</p></td>
         <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview5.jpeg"></img>
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview8.jpg"></img>
             <br />
-            <p align="center">File Description</p></td>
+            <p align="center">Music Search Genre</p></td>
     </tr>
     <tr>
         <td colspan="2">
-            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview4.jpg"></img>
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview5.jpeg"></img>
             <br />
             <h3 align="center">Movie Detail</h3>
         </td>
