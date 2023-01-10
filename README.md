@@ -21,7 +21,7 @@ Author : [Sayan Maity](sayancr777@gmail.com)
 - Browse movies by genre
 - Search for specific movies
 - View movie details, including plot summary, cast, and ratings
-  * Getting Started
+
 ## Table of contents
 
 ## Screenshots
