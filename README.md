@@ -2,7 +2,7 @@
 # Watcho
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f3dd54aa-fd47-4ed5-bdaa-e6248062c6ad/deploy-status)](https://app.netlify.com/sites/watcho-app/deploys)
 
->Welcome to the ``` Watcho ``` app! Watcho allows user to browse and search for their favorite movies or being based on any particular genre like horror, action, mystry, crime, family, fantasy, romance, music, and much More. Explore our app and you would fall in love 😍 for sure.
+>Welcome to the 🎬 ``` Watcho ``` app! Watcho allows user to browse and search for their favorite movies or being based on any particular genre like horror, action, mystry, crime, family, fantasy, romance, music, and much More. Explore our app and you would fall in love 😍 for sure.
 
 Author : [Sayan Maity](sayancr777@gmail.com)
 
