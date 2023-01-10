@@ -1,5 +1,5 @@
 # Watcho
->Welcome to the ``` Watcho ```! This app allows you to browse and search for your favorite movies, it can fetch any random movies based on name provided by the user or based on any specific genre too.
+>Welcome to the ``` Watcho ```! This app allows you to browse and search for your favorite movies based on genre.
 
 ## Features
 Browse movies by genre
@@ -8,7 +8,8 @@ View movie details, including plot summary, cast, and ratings
 Getting Started
 ## Table of contents
 
-## Overview
+## Screenshots
+<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview.jpg"></img>
 
 ### Summary
 
