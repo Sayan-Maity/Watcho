@@ -9,13 +9,63 @@ Getting Started
 ## Table of contents
 
 ## Screenshots
-<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview.jpg"></img>
-<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview2.jpg"></img>
-<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview3.jpg"></img>
-<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview4.jpg"></img>
-<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview5.jpeg"></img>
-<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview6.jpg"></img>
-<img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview7.jpg"></img>
+<table>
+    <tr>
+        <td colspan="2">
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview.jpg"></img>
+            <br />
+            <h3 align="center">Home Page</h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview2.jpg"></img>
+            <br />
+            <h3 align="center">Movies Genre</h3>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview3.jpg"></img>
+            <br />
+            <p align="center">TV Series Genre</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview7.jpg"></img>
+            <br />
+            <p align="center">My Files</p>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview6.jpg"></img>
+            <br />
+            <p align="center">File Description</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview5.jpeg"></img>
+            <br />
+            <p align="center">My Files</p></td>
+        <td width="50%">
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview5.jpeg"></img>
+            <br />
+            <p align="center">File Description</p></td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/preview4.jpg"></img>
+            <br />
+            <h3 align="center">Movie Detail</h3>
+        </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
 
 ### Summary
 
